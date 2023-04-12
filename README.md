@@ -7,11 +7,12 @@ Term: Spring 2023
 + Team #
 + Projec title: Lorem ipsum dolor sit amet
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	1. Brown, Kaitlyn keb2234@columbia.edu
+	2. Du, Jiajun jd3881@columbia.edu
+	3. Sun, Yi ys3594@columbia.edu
+	4. Tinaikar, Ananya art2141@columbia.edu
+	5. Xue, Fei fx2189@columbia.edu
+	6. Zhang, Renqi rz2600@columbia.edu
 + Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	
 
