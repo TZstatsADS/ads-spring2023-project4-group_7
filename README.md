@@ -17,10 +17,15 @@ Term: Spring 2023
 	
 
 **Contribution statement**: All team members contributed equally in all stages of this project. Specifically: 
+
 Fei Xue worked on the function and logistic model in A3 and combine A3 and A6 in testing report.
+
 Ananya Tinaikar worked on cleaning the data and the baseline model for A3.
+
 Kaitlyn Brown worked on optimizing fairness with accuracy constraints in A3.
+
 Renqi Zhang worked on the baseline random forest model in A6.
+
 Yi Sun implemented local Massaging with Renqi for A6 and re-run the baseline model to test the performance. 
 
 
