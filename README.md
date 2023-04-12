@@ -18,6 +18,8 @@ Term: Spring 2023
 
 **Contribution statement**: All team members contributed equally in all stages of this project. Specifically: 
 
+Jiajun Du worked on the Local Preferential Sampling model and the Local Massing model for the A6, and also organize the group meeting for this project.
+ 
 Fei Xue worked on the function and logistic model in A3 and combine A3 and A6 in testing report.
 
 Ananya Tinaikar worked on cleaning the data and the baseline model for A3.
